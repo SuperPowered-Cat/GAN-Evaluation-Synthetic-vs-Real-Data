@@ -1,2 +1,6 @@
 # GAN-Evaluation-Synthetic-vs-Real-Data
-Evaluating GAN-generated synthetic data using traditional ML models compared to real data.
+This repository contains the code used to evaluate the performance of Generative Adversarial Networks (GANs) in generating synthetic data and assessing its utility in comparison with real data using traditional machine learning models.
+## Why use GAN?
+Generative Adversarial Networks (GANs) are a class of neural networks designed to generate synthetic data that closely resembles real data. GANs consist of two main components: the generator and the discriminator. The generator creates synthetic data, while the discriminator evaluates it against real data. Through this adversarial process, the generator learns to produce increasingly realistic data, making GANs an excellent tool for data augmentation, particularly when real data is scarce or difficult to obtain.
+## Synthetic Data Explanation
+Synthetic data refers to data that is artificially generated rather than obtained by direct measurement. In this project, we use GANs to generate synthetic data that mimics the characteristics of real data. This experiment aims to determine how well traditional machine learning models, like Support Vector Machines (SVMs), perform when trained on this synthetic data compared to real data. Additionally, we evaluate the effects of mixing synthetic data with real data to see if it can enhance model performance.
