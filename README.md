@@ -8,4 +8,4 @@ Synthetic data refers to data that is artificially generated rather than obtaine
 This repository documents the code aspects of a research paper currently in process of publication. We encourage trying and testing out the model with different datasets for different results. 
 
 To check out results, go to the [Results.md](Results.md) page.
-For running code, check out the [How-to-run.txt](How-to-run.txt) page.
+For running code, check out the [How-to-run.md](How-to-run.md) page.
