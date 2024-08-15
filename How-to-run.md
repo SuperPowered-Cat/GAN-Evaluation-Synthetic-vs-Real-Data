@@ -7,7 +7,7 @@ cd gan-svm-evaluation
 ## Install Dependancies
 First ensure you have Python  3.8+ installed. Then, install the necessary packages:
 ```
-3.8+ installed. Then, install the necessary packages:
+pip install -r requirements.txt
 ```
 ## Data Preprocessing
 Run the data_preprocessing.py script to preprocess and scale the data:
